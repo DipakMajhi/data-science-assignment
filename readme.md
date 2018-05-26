@@ -13,8 +13,8 @@ You are required to perform the following tasks in the assignment:
     - The average number of plans sold per week.
     - The brand (`BrandID`) with the highest number of plans bought by customers.
     - The percentage of service requests raised under a plan of the total number of requests raised.
-    - Use Python or R to perform the analytics
-5. Visualize the data 
+    - Use Python or R to perform the analysis (we prefer Python)
+5. Visualize the data
 6. For extra credit, predict the following:
     - Number of consumers who will join in the months of Nov-17, Dec-17 and Jan-18 for the given dataset
     - The probability that a Service Request will originate against a Sold Plan.
